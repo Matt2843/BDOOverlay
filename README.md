@@ -1,5 +1,7 @@
 # BDOOverlay
 
+[Pre-release](https://github.com/Matt2843/BDOOverlay/releases)
+
 Hotkeys:
 
 F12 - Move/Lock overlay
