@@ -2,6 +2,8 @@
 
 [Pre-release v0.9](https://github.com/Matt2843/BDOOverlay/releases)
 
+![Screenshot](http://imgur.com/a/FdicH)
+
 Hotkeys:
 
 F12 - Move/Lock overlay
