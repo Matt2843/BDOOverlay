@@ -1,6 +1,6 @@
 # BDOOverlay
 
-[Pre-release](https://github.com/Matt2843/BDOOverlay/releases)
+[Pre-release v0.9](https://github.com/Matt2843/BDOOverlay/releases)
 
 Hotkeys:
 
