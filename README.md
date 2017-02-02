@@ -2,7 +2,7 @@
 
 [Pre-release v0.9](https://github.com/Matt2843/BDOOverlay/releases)
 
-![Screenshot](http://imgur.com/a/FdicH)
+![Screenshot](bdotoolstest6.png?raw=true "Optional Title")
 
 Hotkeys:
 
