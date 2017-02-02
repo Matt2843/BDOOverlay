@@ -18,3 +18,4 @@ F8  - Start OCR(for exp/hr)
 
 F7  - Place OCR device
 
+Insert - Random Stopwatch :3
