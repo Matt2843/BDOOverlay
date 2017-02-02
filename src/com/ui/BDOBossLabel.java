@@ -73,7 +73,7 @@ public class BDOBossLabel extends JLabel {
 	}
 	
 	private boolean isTimeInSpawnWindow(String start, String end, String current) {
-		System.out.println("Start: " + start + " Current: " + current + " End: " + end);
+		//System.out.println("Start: " + start + " Current: " + current + " End: " + end);
 		String[] s = start.split(",");
 		int s1 = getSeconds(s[1]);
 		

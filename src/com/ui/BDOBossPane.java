@@ -42,7 +42,7 @@ public class BDOBossPane extends JPanel {
 			@Override
 			public void run() {
 				while(true) {
-					System.out.println("Updating info");
+					//System.out.println("Updating info");
 					try {
 						Thread.sleep(45 * 1000);
 					} catch (InterruptedException e) {
