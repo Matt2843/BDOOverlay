@@ -2,6 +2,8 @@
 
 [Pre-release v0.9](https://github.com/Matt2843/BDOOverlay/releases)
 
+![Screenshot](bdotoolstest6.png?raw=true "Optional Title")
+
 Hotkeys:
 
 F12 - Move/Lock overlay
@@ -16,3 +18,4 @@ F8  - Start OCR(for exp/hr)
 
 F7  - Place OCR device
 
+Insert - Random Stopwatch :3
