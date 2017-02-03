@@ -21,7 +21,7 @@ public final class UI {
 	public static final Dimension BOSSLABELDIMENSION = new Dimension(275, 40);
 	
 	// FONTS
-	public static Font BOSSFONT = new Font("Segoe Print", Font.PLAIN, 14);
+	public static Font BOSSFONT = new Font("Segoe UI Symbol", Font.PLAIN, 14);
 	public static Font STDFONT = new Font("Segoe UI Symbol", Font.PLAIN, 12);
 	public static Font TIMEFONT = new Font("Segoe UI Symbol", Font.PLAIN, 20);
 	
