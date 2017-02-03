@@ -21,7 +21,9 @@ Step 1. Place the components as you want. When you are fine with the placement p
 Step 2. Place the OCR capture device, hit hotkey: "F7" and place the rectangle that appears so it covers the following info ingame:
 
 Lv.
+
 XX
+
 XX.XXX%
 
 Step 3. Press enter to confirm the OCR capture device position, the positioning tool is  a bit bugged but it should be do-able.
